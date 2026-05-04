@@ -1,7 +1,6 @@
 <!-- Header -->
 <h1 align="center">
   Hi, I'm Venkataramana Routhu
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
 </h1>
 
 <h3 align="center">
@@ -20,7 +19,7 @@
   <a href="mailto:venkataramana.routhu@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://venkataramana.vercel.app" target="_blank">
+  <a href="https://venkataramana.vercel.three.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
